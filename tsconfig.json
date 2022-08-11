@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2020"],
+    "module": "CommonJS",
+    "target": "ES2020",
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "strictNullChecks": true,
+  },
+  "include": [
+    "src/index.ts"
+  ]
+}
